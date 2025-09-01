@@ -1,0 +1,170 @@
+[
+  {
+    "title": "1984",
+    "themes": [
+      "freedom vs control",
+      "surveillance",
+      "truth",
+      "totalitarianism"
+    ],
+    "short_summary": "A dystopia where Big Brother controls truth; Winston rebels under relentless surveillance.",
+    "long_summary": "Orwell's vision of a totalitarian state where history is rewritten and dissent is crushed. Winston seeks truth and love, facing the Thought Police."
+  },
+  {
+    "title": "The Hobbit",
+    "themes": [
+      "friendship",
+      "adventure",
+      "courage",
+      "home"
+    ],
+    "short_summary": "Bilbo helps dwarves reclaim treasure from Smaug, discovering unexpected bravery.",
+    "long_summary": "A comfort-loving hobbit joins a quest led by Gandalf and dwarves, confronting trolls, goblins, and a dragon, finding courage and ingenuity."
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "themes": [
+      "friendship",
+      "magic",
+      "identity",
+      "good vs evil"
+    ],
+    "short_summary": "An orphan learns he's a wizard and faces a dark threat at Hogwarts.",
+    "long_summary": "Harry discovers the wizarding world, forms deep friendships, and confronts the mystery of the Sorcerer's Stone and his connection to Voldemort."
+  },
+  {
+    "title": "To Kill a Mockingbird",
+    "themes": [
+      "justice",
+      "empathy",
+      "racism",
+      "moral growth"
+    ],
+    "short_summary": "Scout learns empathy as Atticus defends a Black man in a prejudiced town.",
+    "long_summary": "Through Scout's eyes, the novel explores racism, courage, and compassion as Atticus Finch stands for justice against community bias."
+  },
+  {
+    "title": "Pride and Prejudice",
+    "themes": [
+      "love",
+      "class",
+      "family",
+      "self-knowledge"
+    ],
+    "short_summary": "Elizabeth Bennet and Mr. Darcy overcome pride, prejudice, and class expectations.",
+    "long_summary": "Austen's classic of wit and social insight traces misunderstandings and growth, culminating in mutual respect and love."
+  },
+  {
+    "title": "The Catcher in the Rye",
+    "themes": [
+      "alienation",
+      "identity",
+      "innocence",
+      "belonging"
+    ],
+    "short_summary": "Holden wanders New York, grieving and resisting 'phoniness'.",
+    "long_summary": "Holden Caulfield's cynical voice masks tenderness and pain as he navigates loss and the challenge of growing up."
+  },
+  {
+    "title": "The Alchemist",
+    "themes": [
+      "destiny",
+      "self-discovery",
+      "faith",
+      "perseverance"
+    ],
+    "short_summary": "Santiago follows a dream to find treasure and himself.",
+    "long_summary": "Guided by omens and mentors, Santiago crosses deserts seeking treasure, learning that purpose often lies where we begin."
+  },
+  {
+    "title": "The Book Thief",
+    "themes": [
+      "war",
+      "friendship",
+      "words",
+      "courage"
+    ],
+    "short_summary": "Liesel steals books and shares stories in Nazi Germany. Narrated by Death.",
+    "long_summary": "Amid WWII's horrors, Liesel finds solace in books and bonds with her foster family and friends, resisting with small acts of humanity."
+  },
+  {
+    "title": "The Name of the Wind",
+    "themes": [
+      "legend",
+      "knowledge",
+      "music",
+      "resilience"
+    ],
+    "short_summary": "Kvothe recounts his rise toward myth and the cost of knowledge.",
+    "long_summary": "From troupe to University, Kvothe hones magic and music, pursuing mysteries that will define his legend and losses."
+  },
+  {
+    "title": "The Art of War",
+    "themes": [
+      "strategy",
+      "discipline",
+      "leadership",
+      "adaptability"
+    ],
+    "short_summary": "Strategic principles on shaping advantage before conflict.",
+    "long_summary": "A timeless treatise on planning, deception, morale, and terrain, broadly applicable beyond battlefields."
+  },
+  {
+    "title": "All Quiet on the Western Front",
+    "themes": [
+      "war",
+      "trauma",
+      "brotherhood",
+      "loss"
+    ],
+    "short_summary": "Paul faces WWI's grinding trauma and the collapse of ideals.",
+    "long_summary": "A stark account of trench warfare's dehumanization and the fragile bonds that sustain soldiers."
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "themes": [
+      "friendship",
+      "sacrifice",
+      "hope",
+      "power"
+    ],
+    "short_summary": "Frodo carries the One Ring as a fellowship forms against Sauron.",
+    "long_summary": "An epic journey testing loyalty and endurance as darkness rises and small acts of courage matter most."
+  },
+  {
+    "title": "Brave New World",
+    "themes": ["control vs freedom", "technology", "conditioning", "identity"],
+    "short_summary": "A future society controls its citizens through pleasure, conditioning, and conformity.",
+    "long_summary": "Aldous Huxley's dystopia imagines a world where individuality is sacrificed for stability. Citizens are engineered, emotions are suppressed, and entertainment replaces meaning. One outsider’s presence questions the system’s promise of happiness without freedom."
+  },
+  {
+    "title": "The Road",
+    "themes": ["survival", "fatherhood", "despair", "hope"],
+    "short_summary": "A father and son journey through a post-apocalyptic wasteland, searching for safety and meaning.",
+    "long_summary": "Cormac McCarthy's bleak yet tender novel follows a man and his son traveling a desolate world after an unspecified catastrophe. They struggle to preserve goodness and humanity amid devastation, encountering starvation, violence, and moral decay."
+  },
+  {
+    "title": "Frankenstein",
+    "themes": ["creation", "isolation", "responsibility", "revenge"],
+    "short_summary": "A scientist creates life and is haunted by the consequences.",
+    "long_summary": "Mary Shelley's classic follows Victor Frankenstein, whose ambition to conquer death results in a sentient but rejected creature. As the monster seeks belonging, the two spiral into mutual destruction. The novel explores the ethics of science and the need for compassion."
+  },
+  {
+    "title": "The Kite Runner",
+    "themes": ["redemption", "friendship", "guilt", "class"],
+    "short_summary": "A man confronts his past by returning to a war-torn Afghanistan to make things right.",
+    "long_summary": "Khaled Hosseini’s story of Amir and Hassan traces betrayal, regret, and the quest for redemption. As political upheaval reshapes Afghanistan, Amir must reckon with childhood wounds and class divides to find peace with his past and himself."
+  },
+  {
+    "title": "Siddhartha",
+    "themes": ["enlightenment", "self-discovery", "detachment", "wisdom"],
+    "short_summary": "A spiritual seeker abandons comfort to explore meaning through experience, not doctrine.",
+    "long_summary": "Hermann Hesse’s poetic novel follows Siddhartha’s journey from privilege to asceticism to awakening. Through love, suffering, and inner listening, he discovers truth not through teachers, but by embracing life’s flow. A meditation on inner peace and authenticity."
+  },
+  {
+    "title": "The Giver",
+    "themes": ["memory", "freedom", "choice", "conformity"],
+    "short_summary": "In a colorless world without pain, one boy is chosen to receive all human memories.",
+    "long_summary": "Lois Lowry’s dystopia centers on Jonas, who learns that his society’s peaceful sameness is built on erased history and suppressed feeling. As the Giver transfers memories, Jonas begins to question safety, truth, and the price of perfection."
+  }
+]
